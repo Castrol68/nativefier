@@ -16,7 +16,7 @@ nativefier web.whatsapp.com
 You're done.
 
 ## Introduction
-
+# 一款用来将网页包装成桌面应用的开源程序
 Nativefier is a command-line tool to easily create a desktop app for any web site
 with minimal configuration. Apps are wrapped by [Electron](https://www.electronjs.org/)
 (which uses Chromium under the hood) in an OS executable (`.app`, `.exe`, etc)
